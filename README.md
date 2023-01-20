@@ -1,3 +1,5 @@
+# The goal of this project was to create a static page that shows three personal digital assitants in three different cards. This is a simple static app that mainly focuses on props propogation from parent to child.I used three props title, handle and description in the parent component and communicated it to child componennt so that it gets displayed in the browser. For CSS styling, I used Bulma library.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
